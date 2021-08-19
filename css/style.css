@@ -1,0 +1,93 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: cyan;
+    color: whitesmoke;
+    text-align: center;
+    padding: 8px;
+    border-radius: 3px;
+}
+
+#ContainerBlock {
+    display: flex;
+    justify-content: center;
+}
+
+#Block {
+    width: 400px;
+    height: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: cyan;
+    border-image: initial;
+    margin: 15px;
+    border-radius: 3px;
+}
+
+#BlockImg {
+    width: 400px;
+    height: 250px;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#InsideBlock {
+    padding: 10px;
+}
+
+#btn {
+    width: 350px;
+    margin-left: 15px;
+    background-color: cyan;
+    color: whitesmoke;
+    font-weight: bold;
+    cursor: pointer;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#Block {
+    width: 400px;
+    height: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: cyan;
+    border-image: initial;
+    margin: 15px;
+    border-radius: 3px;
+}
+
+#Block {
+    width: 400px;
+    height: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: cyan;
+    border-image: initial;
+    margin: 15px;
+    border-radius: 3px;
+}
+
